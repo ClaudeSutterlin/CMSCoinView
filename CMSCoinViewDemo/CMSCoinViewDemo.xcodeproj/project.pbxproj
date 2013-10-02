@@ -25,6 +25,7 @@
 		69D269D317FBE5D500D2CC47 /* ResultViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69D269D017FBE5D500D2CC47 /* ResultViewController.m */; };
 		69D269D717FBE66E00D2CC47 /* check-mark-512.gif in Resources */ = {isa = PBXBuildFile; fileRef = 69D269D517FBE66E00D2CC47 /* check-mark-512.gif */; };
 		69D269D817FBE66E00D2CC47 /* profile.png in Resources */ = {isa = PBXBuildFile; fileRef = 69D269D617FBE66E00D2CC47 /* profile.png */; };
+		69D269DA17FBEB7B00D2CC47 /* ResultView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 69D269D917FBEB7B00D2CC47 /* ResultView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		69D269D017FBE5D500D2CC47 /* ResultViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResultViewController.m; sourceTree = "<group>"; };
 		69D269D517FBE66E00D2CC47 /* check-mark-512.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "check-mark-512.gif"; sourceTree = "<group>"; };
 		69D269D617FBE66E00D2CC47 /* profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile.png; sourceTree = "<group>"; };
+		69D269D917FBEB7B00D2CC47 /* ResultView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ResultView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 				69D269A717FBE57800D2CC47 /* AppDelegate.m */,
 				69D269AC17FBE57900D2CC47 /* ViewController.h */,
 				69D269AD17FBE57900D2CC47 /* ViewController.m */,
+				69D269D917FBEB7B00D2CC47 /* ResultView.xib */,
 				69D269CC17FBE5D500D2CC47 /* View.xib */,
 				69D269CD17FBE5D500D2CC47 /* CMSCoinView.m */,
 				69D269CE17FBE5D500D2CC47 /* CMSCoinView.h */,
@@ -255,6 +258,7 @@
 				69D269B017FBE57900D2CC47 /* Images.xcassets in Resources */,
 				69D269D717FBE66E00D2CC47 /* check-mark-512.gif in Resources */,
 				69D269D117FBE5D500D2CC47 /* View.xib in Resources */,
+				69D269DA17FBEB7B00D2CC47 /* ResultView.xib in Resources */,
 				69D269D817FBE66E00D2CC47 /* profile.png in Resources */,
 				69D269A217FBE57800D2CC47 /* InfoPlist.strings in Resources */,
 			);
